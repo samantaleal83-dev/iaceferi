@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#fafafa"/>
+  <rect x="0" y="0" width="22" height="1350" fill="#5f4a43"/>
+  <text x="72" y="116" fill="#7d736a" font-family="DM Sans, sans-serif" font-size="22" letter-spacing="4">02 — LO QUE VIENE</text>
+  <text x="72" y="315" fill="#5f4a43" font-family="Tenor Sans, sans-serif" font-size="78">
+    <tspan x="72" dy="0">La historia</tspan>
+    <tspan x="72" dy="96">sigue.</tspan>
+  </text>
+  <path d="M76 500h120" stroke="#7d736a" stroke-width="3"/>
+  <text x="76" y="594" fill="#5f4a43" font-family="DM Sans, sans-serif" font-size="31">
+    <tspan x="76" dy="0">Hoy queremos abrirle camino</tspan>
+    <tspan x="76" dy="48">al cuero, sin dejar atrás</tspan>
+    <tspan x="76" dy="48">nuestra historia matera.</tspan>
+  </text>
+  <rect x="72" y="820" width="936" height="300" rx="8" fill="#f2ece6"/>
+  <text x="112" y="886" fill="#7d736a" font-family="DM Sans, sans-serif" font-size="20" letter-spacing="3">IDEAS PARA EL FUTURO</text>
+  <text x="112" y="955" fill="#5f4a43" font-family="Tenor Sans, sans-serif" font-size="39">
+    <tspan x="112" dy="0">Nuevas materas · Carteras</tspan>
+    <tspan x="112" dy="57">Pulseras · Accesorios</tspan>
+    <tspan x="112" dy="57">Chalecos de cuero</tspan>
+  </text>
+  <text x="112" y="1172" fill="#7d736a" font-family="DM Sans, sans-serif" font-size="19">Proyectos de la marca; todavía no anunciamos disponibilidad.</text>
+  <text x="72" y="1265" fill="#5f4a43" font-family="DM Sans, sans-serif" font-size="25">¿Hace cuánto conocés CEFERÍ?</text>
+  <text x="1008" y="1265" fill="#7d736a" font-family="DM Sans, sans-serif" font-size="22" text-anchor="end">04 / 04</text>
+</svg>
