@@ -4,12 +4,13 @@ Conjunto de herramientas IA para administrar https://ceferimates.com/
 
 ## Contenido
 
-Actualmente hay dos skills, en el formato Agent Skills para que los asistentes compatibles puedan descubrirlas:
+Actualmente hay tres skills, en el formato Agent Skills para que los asistentes compatibles puedan descubrirlas:
 
 - [Community Manager](.agents/skills/community/SKILL.md)
 - [Anuncios de conversión](.agents/skills/anuncios/SKILL.md)
+- [Diseño de piezas para redes sociales](.agents/skills/diseno/SKILL.md)
 
-En VS Code, Cursor y otros asistentes compatibles, invocalas desde el chat con `/community` o `/anuncios`. OpenCode incluye esos mismos comandos mediante `.opencode/commands/`.
+En VS Code, Cursor y otros asistentes compatibles, invocalas desde el chat con `/community`, `/anuncios` o `/diseno`. OpenCode incluye esos mismos comandos mediante `.opencode/commands/`.
 
 ## Ejemplos de uso
 
@@ -28,3 +29,11 @@ Invocá `/anuncios` y agregá tu pedido. Algunos ejemplos:
 1. **Anuncio para compra:** `/anuncios Creá un anuncio para Instagram que lleve a comprar una matera en ceferimates.com. No tengo una promoción activa; indicá qué información falta para publicarlo.`
 2. **Anuncio para consultas:** `/anuncios Proponé un anuncio para Facebook que invite a consultar por las materas disponibles. Incluí copy, título, CTA y destino, sin inventar precios ni stock.`
 3. **Variantes para probar:** `/anuncios Prepará dos enfoques de anuncio para una matera disponible: uno centrado en el uso cotidiano y otro en la idea de regalo. Explicá qué hipótesis prueba cada uno y no prometas resultados.`
+
+### Diseño de piezas para redes sociales
+
+Invocá `/diseno` para crear piezas visuales listas para revisar o publicar en `piezas/`. Algunos ejemplos:
+
+1. **Crear un post:** `/diseno Diseñá un single post para el feed de Instagram que cuente que el cuero será el nuevo eje de CEFERÍ sin borrar su historia matera. Entregá el PNG final listo para revisar.`
+2. **Crear un carrusel:** `/diseno Armá un carrusel de cuatro placas sobre el origen matero de CEFERÍ. Usá las fotos existentes en piezas/nuestra-historia-matera y agregá una página HTML para previsualizarlo.`
+3. **Adaptar una pieza:** `/diseno Adaptá este diseño a una historia de Instagram. Mantené el texto dentro del área segura y no agregues información comercial que no esté confirmada.`
