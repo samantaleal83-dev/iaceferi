@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#f2ece6"/>
+
+  <text x="540" y="350" text-anchor="middle"
+    font-family="'DM Sans', sans-serif" font-size="22" font-weight="600"
+    letter-spacing="3" fill="#7d736a">ETIQUETA</text>
+  <text x="540" y="470" text-anchor="middle"
+    font-family="'Tenor Sans', sans-serif" font-size="76"
+    fill="#5f4a43">Titular principal</text>
+
+  <rect x="96" y="570" width="888" height="720" rx="8" fill="#fafafa"/>
+  <g id="reemplazar-por-recurso-visual" aria-label="Reemplazar por foto o recurso visual">
+    <rect x="112" y="586" width="856" height="688" fill="#d6cec4"/>
+    <text x="540" y="940" text-anchor="middle"
+      font-family="'DM Sans', sans-serif" font-size="24"
+      fill="#7d736a">FOTO O RECURSO VISUAL</text>
+  </g>
+
+  <text x="540" y="1390" text-anchor="middle"
+    font-family="'DM Sans', sans-serif" font-size="28"
+    fill="#7d736a">Texto breve o instrucción</text>
+  <rect x="180" y="1450" width="720" height="112" rx="56"
+    fill="#5f4a43"/>
+  <text x="540" y="1520" text-anchor="middle"
+    font-family="'DM Sans', sans-serif" font-size="26"
+    fill="#fafafa">ESPACIO PARA STICKER O CTA</text>
+</svg>

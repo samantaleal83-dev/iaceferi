@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#f2ece6"/>
+
+  <text x="540" y="350" text-anchor="middle"
+    font-family="'DM Sans', sans-serif" font-size="24" font-weight="600"
+    letter-spacing="3.2" fill="#7d736a">ETIQUETA</text>
+  <text x="540" y="475" text-anchor="middle"
+    font-family="'Tenor Sans', sans-serif" font-size="82"
+    fill="#5f4a43">Titular principal</text>
+
+  <rect x="96" y="620" width="888" height="888" rx="8" fill="#fafafa"/>
+  <g id="reemplazar-por-recurso-visual" aria-label="Reemplazar por foto o recurso visual">
+    <rect x="112" y="636" width="856" height="856" fill="#d6cec4"/>
+    <text x="540" y="1077" text-anchor="middle"
+      font-family="'DM Sans', sans-serif" font-size="24"
+      fill="#7d736a">REEMPLAZAR POR FOTO</text>
+  </g>
+
+  <path d="M470 1560h140" stroke="#d6cec4" stroke-width="2"/>
+  <text x="540" y="1625" text-anchor="middle"
+    font-family="'DM Sans', sans-serif" font-size="28"
+    fill="#7d736a">Texto breve de apoyo</text>
+</svg>

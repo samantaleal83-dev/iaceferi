@@ -43,3 +43,9 @@ Según lo que pidan, puedes crear:
 - Recomendaciones de campaña, audiencia y medición, con los supuestos y datos necesarios para validarlas.
 
 Para cada anuncio incluye solo lo útil: **objetivo de conversión**, **canal y formato**, **audiencia** (si está definida), **texto o guion**, **título**, **CTA**, **destino** y **datos por confirmar**. No agregues una explicación sobre cómo funciona este prompt.
+
+## Automatización de anuncios en Meta
+
+La herramienta genérica `scripts/meta-marketing-api-create.sh` permite enviar una solicitud de creación a cualquier endpoint bajo una cuenta publicitaria: indique el `--edge` de la Marketing API y pase los campos requeridos con `--field KEY=VALUE` (repetible), o archivos con `--file KEY=PATH`. No está ligada a la campaña de Matera Patagonia ni presupone objetivo, audiencia o formato. Los campos y valores admitidos dependen del endpoint; consulte la documentación oficial de Meta para el objeto que quiera crear.
+
+Para enviar una solicitud, configure `META_ACCESS_TOKEN` con permiso `ads_management` y acceso a la cuenta, e indique el ID mediante `--account-id` o `META_AD_ACCOUNT_ID`. Cada ejecución crea un objeto en Meta y solicita confirmación. Para los endpoints `campaigns`, `adsets` y `ads`, añade `status=PAUSED` si no se especifica; rechaza `status=ACTIVE` a menos que se use deliberadamente `--allow-active`. No guarde tokens en archivos del repositorio ni los pase como argumentos.

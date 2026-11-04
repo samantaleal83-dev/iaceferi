@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <rect width="1080" height="1350" fill="#f2ece6"/>
+
+  <rect x="72" y="64" width="936" height="936" rx="8" fill="#fafafa"/>
+  <g id="reemplazar-por-foto" aria-label="Reemplazar por foto del producto o escena">
+    <rect x="94" y="86" width="892" height="892" fill="#f2ece6"/>
+    <text x="540" y="520" text-anchor="middle"
+      font-family="'DM Sans', sans-serif" font-size="24"
+      fill="#7d736a">REEMPLAZAR POR FOTO</text>
+  </g>
+
+  <text x="540" y="1062" text-anchor="middle"
+    font-family="'DM Sans', sans-serif" font-size="21" font-weight="600"
+    letter-spacing="3.2" fill="#7d736a">CATEGORÍA O ETIQUETA</text>
+  <text x="540" y="1155" text-anchor="middle"
+    font-family="'Tenor Sans', sans-serif" font-size="72"
+    fill="#5f4a43">Titular principal</text>
+  <path d="M470 1192h140" stroke="#d6cec4" stroke-width="2"/>
+  <text x="540" y="1245" text-anchor="middle"
+    font-family="'DM Sans', sans-serif" font-size="24"
+    fill="#7d736a">Texto breve de apoyo</text>
+</svg>
