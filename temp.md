@@ -1,0 +1,1 @@
+Create a video for an instagram ad. Should show my product moving the camera around. You can use slo mo when showing a specific angle or detail
